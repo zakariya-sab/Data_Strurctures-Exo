@@ -1,4 +1,5 @@
 #include "f.h"
+/*oyau*/
 node * Insertion_avant_elm(node *head ,int n ,int ch){
     if(head==NULL ) return head;
     if (head->nbr==ch) return Insertion_au_debut(head , n);
