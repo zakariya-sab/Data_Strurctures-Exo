@@ -1,4 +1,5 @@
 #include "f.h"
+/*gggggg*/
 node* cree(void ){
     int n ;
     printf("donner le nbr des node evite le 0 :");
